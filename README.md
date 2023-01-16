@@ -1,8 +1,7 @@
 great-XSScape usage:
 
-python3 great-XSScape.py "<payload>"
+$python3 great-XSScape.py
 
-1st gen of the generator, currently xss payload must be within "" or the script breaks
-e.g.
-  python3 great-XSScape.py "<script>alert(1)</script>"
-  python3 great-XSScape.py "<img src=x onerror=alert("XSS")>"
+![image](https://user-images.githubusercontent.com/108965118/212779987-f5e60383-98dd-4d9e-9509-485ea047e5c0.png)
+
+
