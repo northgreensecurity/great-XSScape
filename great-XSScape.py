@@ -16,6 +16,7 @@ for keyword in keywords:
     payloads.append(s.replace(keyword, keyword.lower()))
     if keyword == "script":
         payloads.append(s.replace(keyword, "scr<script>ipt"))
+        payloads.append(s.replace(keyword, "ScRiPt"))
     if keyword == "alert":
         payloads.append(s.replace(keyword, "prompt"))
         payloads.append(s.replace(keyword, "confirm"))
