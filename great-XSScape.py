@@ -1,8 +1,8 @@
 #!/usr/bin/python3 
 import sys
 
-#Author: Dan Cannon
-#Company: North Green Security
+#Author: Dan Cannon (https://www.linkedin.com/in/daniel-cannon-75421130/)
+#Company: North Green Security (www.northgreensecurity.com)
 #Note: I am far from a coder so do not judge any inefficiencies in the code :-) 
 
 s = input("What Payload do you want to modify?")
