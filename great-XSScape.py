@@ -1,7 +1,7 @@
 #!/usr/bin/python3 
 import sys
 
-#Author: Dan Cannon (https://www.linkedin.com/in/daniel-cannon-75421130/)
+#Author: Dan Cannon (https://www.linkedin.com/in/danjcannon/)
 #Company: North Green Security (www.northgreensecurity.com)
 #Note: I am far from a coder so do not judge any inefficiencies in the code :-) 
 
